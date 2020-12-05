@@ -1,7 +1,5 @@
-# CSE572-Feature-Extraction
-Assignment 1 for Data Mining (CSE 572) at ASU
-
-For information about the tasks, refer the 'CSE572Project1-1-Update (1).pdf' file.
+# Feature-Extraction
+For Data Mining Class. More info in the PDF file.
 
 
 How to compile code?
