@@ -1,5 +1,5 @@
 # Feature-Extraction
-For Data Mining Class. More info in the PDF file.
+Info in the `todo.pdf` file.
 
 
 How to compile code?
