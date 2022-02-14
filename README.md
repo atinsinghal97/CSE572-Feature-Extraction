@@ -36,8 +36,7 @@ Contents of Folder Submitted
 
 Files: 
 1. Final.py- PYTHON Code File
-2. Atin_Singhal_Project1.pdf- Report
-3. readme.txt
+2. readme.txt
 
 Folders:
 1. Processed Data- Processed CSV Data for Patient 1, the Feature Matrix & the new Feature Matrix after PCA
